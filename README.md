@@ -33,7 +33,7 @@ Amante del código limpio, la tecnología moderna y aprender hackeando cosas en 
 ### 📊 GitHub Stats
 <div align="center">
   
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-kdc-devshow_icons=true&theme=tokyonight&hide_border=true)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-kdc-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-kdc-dev&layout=compact&theme=tokyonight&hide_border=true)
 

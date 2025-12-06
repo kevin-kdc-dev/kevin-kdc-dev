@@ -49,6 +49,6 @@ Amante del código limpio, la tecnología moderna y aprender hackeando cosas en 
 ---
 
 ### ✉ Contact
-📩 En proceso... pronto :)
+En proceso... pronto :)
 
 

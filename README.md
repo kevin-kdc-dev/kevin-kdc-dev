@@ -1,5 +1,5 @@
 <!-- ===== Banner / Título ===== -->
-<h1 align="center">👾 Kevin Dev 👾</h1>
+<h1 align="center" color="red">👾 Kevin Dev 👾</h1>
 <p align="center">Buildin • Breaking • Learning</p>
 
 ---

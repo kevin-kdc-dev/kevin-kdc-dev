@@ -1,17 +1,18 @@
 <!-- ===== Banner / Título ===== -->
-<h1 align="center" color="red">👾 Kevin Dev 👾</h1>
+<h1 align="center" >👾 Kevin Dev 👾</h1>
 <p align="center">Buildin • Breaking • Learning</p>
 
 ---
 
 <!-- ===== Presentación ===== -->
-### 👋 About Me  
-Soy un desarrollador **Gamer / Developer** apasionado por crear, romper y volver a crear.  
-Amante del código limpio, la tecnología moderna y aprender hackeando cosas en el proceso.
+### ACERCA DE MI
+Soy un desarrollador Perúano de 20 19 años,  apasionado por crear, romper y volver a crear.  
+Amante del código limpio, la tecnología moderna y el aprendizaje constante. 
+
 
 ---
 
-### 🧠 Tech Stack
+### STACK
 
 #### 🚀 Frontend
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />

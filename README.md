@@ -57,6 +57,9 @@ Amante del código limpio, la tecnología moderna y el aprendizaje constante.
   <a href="https://github.com/kevin-kdc-dev">
     <img src="https://skillicons.dev/icons?i=github" style="width:40px">
   </a>
+  <a href="https://www.linkedin.com/in/kevin-de-la-cruz-570a2023a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="width:40px">
+  </a>
 </div>
 
 

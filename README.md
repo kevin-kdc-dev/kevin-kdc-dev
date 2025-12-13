@@ -64,7 +64,7 @@ Amante del código limpio, la tecnología moderna y el aprendizaje constante.
     <img src="https://skillicons.dev/icons?i=instagram" style="width:40px">
   </a>
   <a href="https://wa.me/51989370829?text=Hola%20Kevin,%20vi%20tu%20portafolio">
-    <img src="https://skillicons.dev/icons?i=whatsapp" style="width:40px">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" style="width:40px">
   </a>
   
 

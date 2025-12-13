@@ -50,7 +50,8 @@ Amante del código limpio, la tecnología moderna y el aprendizaje constante.
 ---
 
 ### Contacto
+<div>
 <img src="https://skillicons.dev/icons?i=gmail"> <h3> kevin.kdc.dev@gmail.com <h3>
-
+</div>
 
 

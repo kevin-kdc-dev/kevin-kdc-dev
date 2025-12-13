@@ -14,24 +14,24 @@ Amante del código limpio, la tecnología moderna y el aprendizaje constante.
 
 ### STACK
 
-#### 🚀 Frontend
+#### Frontend
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
 
-#### 🖥 Backend
+#### Backend
 <img src="https://skillicons.dev/icons?i=java,spring,python" />
 
-#### 🗄 Bases de Datos
+#### Bases de Datos
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-#### ⚙️ Control de versiones
+#### Control de versiones
 <img src="https://skillicons.dev/icons?i=git,github" />
 
-#### 🛠 IDEs / Tools
+#### IDEs / Tools
 <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,netbeans" />
 
 ---
 
-### 📊 GitHub Stats
+### Estadisticas
 <div align="center">
   
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-kdc-dev&show_icons=true&theme=tokyonight&hide_border=true)
@@ -42,7 +42,7 @@ Amante del código limpio, la tecnología moderna y el aprendizaje constante.
 
 ---
 
-### 🎮 Más que código
+### Más que código
 - Gamer con mentalidad de developer  
 - Me gusta optimizar, automatizar y simplificar  
 - Siempre aprendiendo, siempre rompiendo cosas  

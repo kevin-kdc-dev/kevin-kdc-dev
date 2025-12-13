@@ -49,7 +49,8 @@ Amante del código limpio, la tecnología moderna y el aprendizaje constante.
 
 ---
 
-### ✉ Contact
-En proceso... pronto :)
+### Contacto
+<img src="https://skillicons.dev/icons?i=gmail">
+
 
 
